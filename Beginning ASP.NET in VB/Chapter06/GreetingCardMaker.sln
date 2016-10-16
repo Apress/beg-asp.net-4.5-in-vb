@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "GreetingCardMaker(1)", "http://localhost:50340", "{C331C427-3790-4C31-951C-38C2EFD31363}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/GreetingCardMaker"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Code\Beginning ASP.NET 3.5 in VB\Chapter06\GreetingCardMaker\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\GreetingCardMaker\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/GreetingCardMaker"
+		Release.AspNetCompiler.PhysicalPath = "D:\Code\Beginning ASP.NET 3.5 in VB\Chapter06\GreetingCardMaker\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\GreetingCardMaker\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "GreetingCardMaker\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C331C427-3790-4C31-951C-38C2EFD31363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C331C427-3790-4C31-951C-38C2EFD31363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

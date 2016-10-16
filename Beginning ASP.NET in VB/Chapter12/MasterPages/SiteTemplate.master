@@ -1,0 +1,19 @@
+<%@ Master Language="VB" CodeFile="SiteTemplate.master.vb" Inherits="SiteTemplate" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">
+    <title>Untitled Page</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <img src="apress.jpg" alt="logo" /><br />
+        <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+        </asp:contentplaceholder>
+        <i>This is a simple footer.</i>
+     </div>
+    </form>
+</body>
+</html>

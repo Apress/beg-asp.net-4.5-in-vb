@@ -1,0 +1,9 @@
+D:\Code\Beginning ASP.NET 3.5 in VB\Chapter23\DatabaseComponent\bin\Debug\DatabaseComponent.dll
+D:\Code\Beginning ASP.NET 3.5 in VB\Chapter23\DatabaseComponent\bin\Debug\DatabaseComponent.pdb
+D:\Code\Beginning ASP.NET 3.5 in VB\Chapter23\DatabaseComponent\bin\Debug\DatabaseComponent.xml
+D:\Code\Beginning ASP.NET 3.5 in VB\Chapter23\DatabaseComponent\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\Beginning ASP.NET 3.5 in VB\Chapter23\DatabaseComponent\obj\Debug\DatabaseComponent.Resources.resources
+D:\Code\Beginning ASP.NET 3.5 in VB\Chapter23\DatabaseComponent\obj\Debug\DatabaseComponent.vbproj.GenerateResource.Cache
+D:\Code\Beginning ASP.NET 3.5 in VB\Chapter23\DatabaseComponent\obj\Debug\DatabaseComponent.dll
+D:\Code\Beginning ASP.NET 3.5 in VB\Chapter23\DatabaseComponent\obj\Debug\DatabaseComponent.xml
+D:\Code\Beginning ASP.NET 3.5 in VB\Chapter23\DatabaseComponent\obj\Debug\DatabaseComponent.pdb

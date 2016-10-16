@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DataControls(1)", "http://localhost:53842", "{5FBC307B-B785-45ED-9D4F-7F7C34B60731}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/DataControls"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Code\Beginning ASP.NET 2.0 in VB\Chapter17\DataControls\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\DataControls\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/DataControls"
+		Release.AspNetCompiler.PhysicalPath = "D:\Code\Beginning ASP.NET 2.0 in VB\Chapter17\DataControls\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\DataControls\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "DataControls\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FBC307B-B785-45ED-9D4F-7F7C34B60731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FBC307B-B785-45ED-9D4F-7F7C34B60731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

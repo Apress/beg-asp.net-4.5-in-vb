@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebControls", "WebControls\", "{F3285285-0A55-42B6-86DB-C8E4A7F3E616}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/WebControls"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Code\Beginning ASP.NET 3.5 in VB\Chapter06\WebControls\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WebControls\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WebControls"
+		Release.AspNetCompiler.PhysicalPath = "D:\Code\Beginning ASP.NET 3.5 in VB\Chapter06\WebControls\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WebControls\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53860"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3285285-0A55-42B6-86DB-C8E4A7F3E616}.Debug|.NET.ActiveCfg = Debug|.NET
+		{F3285285-0A55-42B6-86DB-C8E4A7F3E616}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
